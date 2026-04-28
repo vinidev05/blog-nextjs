@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "Next.js 16 - Guia Completo",
+    "autor": "Maria Silva",
+    "data": "2024-12-20",
+    "resumo": "Aprenda tudo sobre Next.js 16 App Router e Server Components.",
+    "conteudo": "<h2>Next.js 16 é incrível!</h2><p>Server Components revolucionaram o React.</p>",
+    "slug": "introducao-nextjs16"
+  },
+  {
+    "titulo": "Rotas Dinâmicas [slug]",
+    "autor": "João Pereira",
+    "data": "2024-12-22",
+    "resumo": "Crie páginas dinâmicas com parâmetros de URL.",
+    "conteudo": "<p>Pasta: <code>app/blog/[slug]/page.tsx</code></p><p>Super simples!</p>",
+    "slug": "introducao-nextjs16"
+  }
+]
