@@ -12,7 +12,7 @@
     "autor": "João Pereira",
     "data": "2024-12-22",
     "resumo": "Crie páginas dinâmicas com parâmetros de URL.",
-    "conteudo": "<p>Pasta: <code>app/blog/[slug]/page.tsx</code></p><p>Super simples!</p>",
-    "slug": "introducao-nextjs16"
+    "conteudo": "<p>Pasta: <code>app/artigos/[slug]/page.tsx</code></p><p>Super simples!</p>",
+    "slug": "rotas-dinamicas"
   }
 ]
