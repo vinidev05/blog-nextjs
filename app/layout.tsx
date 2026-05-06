@@ -42,7 +42,7 @@ export default function RootLayout({
           borderTop: '1px solid #eee',
           marginTop: '4rem'
         }}>
-          © 2024 Meu Blog - Next.js 13
+          © 2026 Meu Blog - Next.js 15
         </footer>
       </body>
     </html>
