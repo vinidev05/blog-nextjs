@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import artigos from '../../../data/artigos.json';
 
@@ -69,7 +70,7 @@ export default async function ArtigoPage({ params }: Props) {
         lineHeight: '1.8',
       }}
     >
-      <a
+      <Link
         href="/"
         style={{
           display: 'inline-block',
@@ -78,7 +79,7 @@ export default async function ArtigoPage({ params }: Props) {
         }}
       >
         ← Voltar
-      </a>
+      </Link>
 
       <h1
         style={{
