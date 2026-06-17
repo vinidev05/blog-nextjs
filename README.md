@@ -4,8 +4,8 @@ Projeto desenvolvido com Next.js utilizando TypeScript, com foco em geração de
 
 ## Tecnologias Utilizadas
 
-- Next.js 16
-- React 19
+- Next.js 14.2.5 
+- React 18.2.0 
 - TypeScript
 - ESLint
 - GitHub Actions
@@ -28,10 +28,14 @@ app/
 ├── artigos/
 │   └── [slug]/
 │       └── page.tsx
+├── layout.tsx
 ├── page.tsx
 
 data/
 └── artigos.json
+
+_tests/
+└── page.test.tsx
 
 public/
 
@@ -121,3 +125,5 @@ https://github.com/vinidev05/blog-nextjs
 ## Autor
 
 Vinícius Machado
+
+https://github.com/vinidev05
